@@ -6,7 +6,7 @@
  * @l: va_list arguments from _printf
  * @f: pointer to the struct flags that determines
  * if a flag is passed to _printf
- * Description: the function calls convert() which in turns converts the input
+ * Description: the function calls convert() which in turns converts the inputs
  * number into the correct base and returns it as a string
  * Return: the number of char printed
  */
