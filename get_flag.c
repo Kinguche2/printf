@@ -6,7 +6,7 @@
  * @s: character that holds the flag specifiers
  * @f: pointer to the struct flags in which we turn the flaags o
  *
- * Return: 1 if a flag has been turned on, 0 otherwise
+ * Return: 1 if a flag has been turned on, 0 otherwis
  */
 int get_flag(char s, flags_t *f)
 {
