@@ -1,7 +1,7 @@
 .Th man 3 "17 March 2019" "MAIN" "_PRINTF"
 .SH NAME
 .B _printf
-- formatted output conversion
+- formatted output conversions
 .SH SYNOPSIS
 .B #include \(dqholberton.h\(dq
 .sp
